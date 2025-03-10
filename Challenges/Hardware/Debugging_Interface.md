@@ -1,5 +1,9 @@
 # Debugging Interface
 
+- **Category:** Hardware
+- **Points:** 10
+- **Difficulty:** Very Easy
+
 [Debugging_Interface](https://app.hackthebox.com/challenges/207)
 
 ## Description
