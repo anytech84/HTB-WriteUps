@@ -2,6 +2,9 @@
 
 `Alert` is a Linux machine that is rated as easy. It is a great box for beginners and is a good way to get introduced to the platform. 
 
+- **Difficulty:** Easy
+- **OS:** Linux
+
 [Alert](https://app.hackthebox.com/machines/Alert)
 
 ## `nmap`
@@ -142,9 +145,7 @@ Let's see what Albert can do.
 sudo -l
 ```
 
-> Albert can run everything !
-
-Let's now get the root flag !
+> Albert can run everything ! Let's get the root flag !
 
 ```bash
 sudo su
@@ -152,4 +153,3 @@ cd
 cat root.txt
 ```
 
-DONE !
